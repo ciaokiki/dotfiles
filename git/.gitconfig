@@ -1,8 +1,8 @@
 [user]
-	name = Rosco Kalis
-	email = roscokalis@gmail.com
+	name = Kiki Cakir
+	email = cakir.kevser@gmail.com
 [core]
-	excludesfile = /Users/rosco/.gitignore_global
+	excludesfile = /Users/kiki/.gitignore_global
 	editor = /usr/bin/vim
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
